@@ -1,0 +1,10 @@
+There are 3 styles of declaring/initializing variables
+
+1>> By using Assignment operator  (inherited from C programming)
+2>> By using Precise initializing 
+3>> By using auto keyword (used only when DataType is unknown we let the compiler decide the DataType itself)
+
+{
+    C++14 standard from C++11 it is actually recommaned that you should initialize the variables by using Precise initializing instead of using Assignment operators because that propert is inherited from the C language 
+
+}

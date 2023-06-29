@@ -1,0 +1,10 @@
+int x=10;
+int &v=x;
+
+This v can be used to manupulate the content of x 
+v is just alis of a
+
+
+1>>we need to prefix the &operator with reference valueable point number
+2>>Both of them should have same DataType
+3>>We must initialize the reference variable
